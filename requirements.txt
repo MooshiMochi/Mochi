@@ -1,0 +1,15 @@
+discord.py[speed,voice]
+lavalink
+
+fuzzywuzzy
+asyncpg
+asyncio
+aiohttp
+ujson
+aiofiles
+python-Levenshtein
+
+python-dotenv
+loguru
+selenium
+webdriver-manager
